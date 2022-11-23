@@ -1,0 +1,17 @@
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\bin\Debug\net6.0-windows\Ex2_Assigment2_PRN211.exe
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\bin\Debug\net6.0-windows\Ex2_Assigment2_PRN211.deps.json
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\bin\Debug\net6.0-windows\Ex2_Assigment2_PRN211.runtimeconfig.json
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\bin\Debug\net6.0-windows\Ex2_Assigment2_PRN211.dll
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\bin\Debug\net6.0-windows\Ex2_Assigment2_PRN211.pdb
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\obj\Debug\net6.0-windows\Ex2_Assigment2_PRN211.csproj.AssemblyReference.cache
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\obj\Debug\net6.0-windows\Ex2_Assigment2_PRN211.Form1.resources
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\obj\Debug\net6.0-windows\Ex2_Assigment2_PRN211.csproj.GenerateResource.cache
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\obj\Debug\net6.0-windows\Ex2_Assigment2_PRN211.GeneratedMSBuildEditorConfig.editorconfig
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\obj\Debug\net6.0-windows\Ex2_Assigment2_PRN211.AssemblyInfoInputs.cache
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\obj\Debug\net6.0-windows\Ex2_Assigment2_PRN211.AssemblyInfo.cs
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\obj\Debug\net6.0-windows\Ex2_Assigment2_PRN211.csproj.CoreCompileInputs.cache
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\obj\Debug\net6.0-windows\Ex2_Assigment2_PRN211.dll
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\obj\Debug\net6.0-windows\refint\Ex2_Assigment2_PRN211.dll
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\obj\Debug\net6.0-windows\Ex2_Assigment2_PRN211.pdb
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\obj\Debug\net6.0-windows\Ex2_Assigment2_PRN211.genruntimeconfig.cache
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\Ex2_Assigment2_PRN211\obj\Debug\net6.0-windows\ref\Ex2_Assigment2_PRN211.dll

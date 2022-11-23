@@ -1,0 +1,17 @@
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\bin\Debug\net6.0-windows\EX2.exe
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\bin\Debug\net6.0-windows\EX2.deps.json
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\bin\Debug\net6.0-windows\EX2.runtimeconfig.json
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\bin\Debug\net6.0-windows\EX2.dll
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\bin\Debug\net6.0-windows\EX2.pdb
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\obj\Debug\net6.0-windows\EX2.csproj.AssemblyReference.cache
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\obj\Debug\net6.0-windows\EX2.csproj.GenerateResource.cache
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\obj\Debug\net6.0-windows\EX2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\obj\Debug\net6.0-windows\EX2.AssemblyInfoInputs.cache
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\obj\Debug\net6.0-windows\EX2.AssemblyInfo.cs
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\obj\Debug\net6.0-windows\EX2.csproj.CoreCompileInputs.cache
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\obj\Debug\net6.0-windows\EX2.dll
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\obj\Debug\net6.0-windows\refint\EX2.dll
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\obj\Debug\net6.0-windows\EX2.pdb
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\obj\Debug\net6.0-windows\EX2.genruntimeconfig.cache
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\obj\Debug\net6.0-windows\ref\EX2.dll
+D:\SolutionPRN211\Ex2_Assigment2_PRN211\EX2\obj\Debug\net6.0-windows\Ex2_Assigment2_PRN211.EX2.resources
